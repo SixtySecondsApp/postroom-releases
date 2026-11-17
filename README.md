@@ -1,6 +1,10 @@
-# Postroom
+<p align="center">
+  <img src="assets/postroom-icon.png" alt="Postroom icon" width="128" height="128">
+</p>
 
-A Mac app for planning and writing your posts, in your own voice.
+<h1 align="center">Postroom</h1>
+
+<p align="center">A Mac app for planning and writing your posts, in your own voice.</p>
 
 Postroom keeps your ideas, drafts and posting plan in one place on your Mac. It helps you write for LinkedIn, YouTube, YouTube Shorts, TikTok, Instagram and your blog, and it never posts anything for you: you copy the finished post and publish it yourself.
 
